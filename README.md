@@ -1,3 +1,3 @@
 # eunoia
 
-Practica hecha con Bimcode Christmas Page tutorial
+Practica hecha con Bedimcode Christmas Page tutorial
