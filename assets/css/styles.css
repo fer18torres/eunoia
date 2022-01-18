@@ -600,22 +600,6 @@ body.dark-theme {
   color: var(--text-color-light);
 }
 
-.footer__img1, 
-.footer__img2 {
-  position: absolute;
-  width: 100px;
-  border-radius: .75rem;
-}
-
-.footer__img1 {
-  top: 25%;
-  right: 2rem;
-}
-
-.footer__img2 {
-  top: 75%;
-  right: -4rem;
-}
 
 /*=============== SCROLL UP ===============*/
 .scrollup {
@@ -863,20 +847,13 @@ body.dark-theme {
   .footer__copy {
     margin-top: 7rem;
   }
-  .footer__img1, 
-  .footer__img2 {
-    width: 120px;
-  }
-  .footer__img1 {
-    top: 100%;
-    left: 0;
-  }
-  .footer__img2 {
-    top: 40%;
-    right: -7rem;
-  }
+
   
   .scrollup {
     right: 3rem;
   }
+}
+
+.rrss {
+  transform: translateY(3px);
 }
